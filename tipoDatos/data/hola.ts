@@ -1,0 +1,1 @@
+console.log("hola data dentro de tipo de dato")
